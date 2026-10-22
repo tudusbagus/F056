@@ -1,0 +1,8 @@
+Beams:idA = 2212
+Beams:idB = 2212
+Beams:eCM = 13000.
+HardQCD:gg2bbbar = on
+HardQCD:qqbar2bbbar = on
+PhaseSpace:pTHatMin = 40.0
+Main:numberOfEvents = 1000
+PDF:pSet = 13
